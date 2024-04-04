@@ -1,0 +1,1 @@
+print("Bu uy ishi")
